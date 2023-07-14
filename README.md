@@ -1,9 +1,9 @@
 # Stock-Prediction-Model
 Model includes a Convolutional GRU layer followed by additional GRU layers and a Dense output layer. It is trained using the Adam optimizer with mean squared error (MSE) as the loss function. The model is capable of capturing patterns and dependencies in sequential data, making it suitable for tasks like stock price prediction.
 
-#RMSE=31.
+RMSE=31.
 
-#Directional Accuracy =100%.
+Directional Accuracy =100%.
 
 
 ## Here is the result from the trained GRU model:
