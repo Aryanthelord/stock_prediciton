@@ -7,4 +7,5 @@ Directional Accuracy =100%.
 
 
 ## Here is the result from the trained GRU model:
-![image](https://github.com/Aryanthelord/stock_prediciton/assets/107427258/be433618-7402-42af-8232-3ec825af3c89)
+![image](https://github.com/Aryanthelord/stock_prediciton/assets/107427258/8988ae62-e95b-4152-8a5a-8a8cc082ecd9)
+
